@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Octoshield VR"
+    url: http://blog.lianapigeot.com/octoshield-vr-htc-vive-game/
+  - title: "My Bio"
+    url: http://blog.lianapigeot.com/my-bio/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
