@@ -78,7 +78,7 @@ Another bit of challenge here was writing the camera. The player is rotating arr
 
 ## Demo, source code
 
-Now you may want to see a [demo](assets/files/galaxy/index.html) of all that in action. Move with left stick (or arrow keys), A to jump, turn camera with right stick (or don't turn if you don't have a gamepad).
+Now you may want to see a [demo]({{ site.url }}{{ site.baseurl }}/assets/files/galaxy/index.html) of all that in action. Move with left stick (or arrow keys), A to jump, turn camera with right stick (or don't turn if you don't have a gamepad).
 
 The meshes used here are extremely low poly so movement may be a bit ugly but it's just a proof of concept. Just jump to another object/planet to switch what you're attached to.
 

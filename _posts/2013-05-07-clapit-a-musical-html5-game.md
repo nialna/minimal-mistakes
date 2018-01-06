@@ -9,4 +9,4 @@ It's a game made for pc/tablets in HTML5. Our inspiration is the simple japanese
 
 We wanted to see if we could develop a nice little rythm game in HTML5 during a jam, so we did. It's pretty simple: You have to tap either the blue or the pink button at the bottom with good timing to play the music. The game and its interface is designed to look like an old tape player.
 
-The game is [playable there](assets/files/clapit/index.html) (slow to load due to the musics loading). Space for the blue notes, down arrow for the pink ones.
+The game is [playable there]({{ site.url }}{{ site.baseurl }}/assets/files/clapit/index.html) (slow to load due to the musics loading). Space for the blue notes, down arrow for the pink ones.
