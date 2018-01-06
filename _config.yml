@@ -5,14 +5,14 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "mint" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
 locale                   : "en"
-title                    : "Blog"
+title                    : "Liana Pigeot - Game Developer (Unity, Unreal, VR, HTML5)"
 title_separator          : "-"
 name                     : "Liana Pigeot"
-description              : "This is my blog. I talk about game development, projects I made, or other things."
+description              : "Game Development blog of Liana Pigeot. I mostly make VR games, Unity, Unreal and  HTML5 games."
 url                      : "http://blog.lianapigeot.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "nialna/nialna.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -67,12 +67,14 @@ og_image                 : # Open Graph/Twitter default site image
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  name                   : "Liana Pigeot" # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://lianapigeot.com/"
+    - "https://www.linkedin.com/in/lianapigeot/"
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-107078599-2"
 
@@ -80,11 +82,11 @@ analytics:
 # Site Author
 author:
   name             : "Liana Pigeot"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Test."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  avatar           : "/assets/img/2018/Jan/liana.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I'm a game developer and I like making games fun for the player. Working in VR, Unity, Unreal and HTML5."
+  location         : "London, UK"
+  email            : "liana.pigeot@gmail.com"
+  uri              : "https://lianapigeot.com/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -97,7 +99,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "lianapigeot" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -244,6 +246,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
