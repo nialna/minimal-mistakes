@@ -8,6 +8,8 @@ There is a wide range of level design elements that can be used to make levels i
 
 Games can also be really big, adding a challenge of spatial memorisation: Imagine a giant room where you can't see where you will end up once you start moving. You will need to try and remember the room's layout to figure out where to go.
 
+*(Screenshots are from early builds of the game and not all assets are finalised as you can see)*
+
 ![I-Scape 2]({{site.url}}{{site.baseurl}}/assets/img/2014/Dec/g3nkE4W.png)
 
 This game has not been released but is fully playable and has quite a lot of levels. The puzzle gameplay, while simple, can become very challenging on the latest levels.
