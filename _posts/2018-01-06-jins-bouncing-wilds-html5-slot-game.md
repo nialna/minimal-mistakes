@@ -4,8 +4,10 @@ Jin's Bouncing Wilds is an HTML5 slot game I made at Gamesys. It was an ambitiou
 
 The game is centered around the character, Jin (a red panda) that can bounce from symbol to symbol, creating bonuses for the player.
 
-<iframe src="https://player.vimeo.com/video/234324988" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/234324988">Jin&#039;s Bouncing Wilds</a> from <a href="https://vimeo.com/gamesyscreative">Gamesys</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<video width="560" height="315" controls>
+  <source src="{{site.url}}{{site.baseurl}}/assets/img/2018/Jan/trailer.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 The game is made in  HTML5 and runs on canvas/webGL with [Pixi.js](http://www.pixijs.com/) for rendering. It uses [Spine](http://esotericsoftware.com/) for advanced animations, too.
 
