@@ -1,4 +1,6 @@
-## I-Scape (Wii U)
+---
+title: "I-Scape - Wii U Puzzle game in HTML5"
+---
 
 ![I-Scape]({{site.url}}{{site.baseurl}}/assets/img/2014/Dec/screen-.png)
 

@@ -1,8 +1,10 @@
-## Experimental Unity game with procedural meshes
+---
+title: "Experimental Unity game with procedural meshes"
+---
 
 We had a weird [game]({{ site.url }}{{ site.baseurl }}/assets/files/boxgame/index.html) idea to make with Unity: The player can place spots on the ground, and depending on how much are placed, things happen when you press a button:
 
-* 1 spot: Little expÞlosion around it
+* 1 spot: Little explosion around it
 * 2 spots: A line appears between the two spots, slowing down any enemy passing by
 * 3 spots: The triangle formed by the spots becomes a black hole, every enemy in it dies.
 

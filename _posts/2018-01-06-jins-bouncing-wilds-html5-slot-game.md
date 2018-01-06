@@ -1,4 +1,6 @@
-## Jin's Bouncing Wilds
+---
+title: "Jin's Bouncing Wilds - HTML5 Casino game made at Gamesys"
+---
 
 Jin's Bouncing Wilds is an HTML5 slot game I made at Gamesys. It was an ambitious project for the company, as it had a lot of animations and features compared to usual slot games.
 

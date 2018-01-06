@@ -1,4 +1,6 @@
-## Wonders of the deep
+---
+title: "Wonders of the deep - HTML5 Casino game made at Gamesys"
+---
 
 Wonders of the deep is a slot game that I made at Gamesys. It is actually a remake of an older Flash game, to an HTML5 version.
 

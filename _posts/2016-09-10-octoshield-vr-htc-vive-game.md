@@ -1,4 +1,6 @@
-## Octoshield VR
+---
+title: "Octoshield VR - HTC Vive VR game I released on Steam"
+---
 
 ![Octoshield VR screenshot 1]({{site.url}}{{site.baseurl}}/assets/img/2018/Jan/octoshield1.jpg)
 [Octoshield VR](http://store.steampowered.com/app/488150/Octoshield_VR/) is a virtual reality game for the HTC Vive that I released on Steam. It is made using Unreal Engine.

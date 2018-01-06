@@ -1,4 +1,6 @@
-## Unity Project: Procedural Hack n slash with voxels
+---
+title: "Unity Project: Procedural Hack'n'slash with voxels"
+---
 
 ![screen]({{site.url}}{{site.baseurl}}/assets/img/2014/May/crawler-1-med.jpg)
 This is a prototype of a procedural hack n slash with a voxel-based map, made with Unity.

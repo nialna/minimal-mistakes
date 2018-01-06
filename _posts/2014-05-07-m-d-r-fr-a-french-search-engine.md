@@ -1,4 +1,6 @@
-## m-d-r.fr - A french search engine
+---
+title: "m-d-r.fr - A french search engine parody"
+---
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/img/2014/May/Screenshot_at_mai_07_16_11_57.png)
 I have been working with bigger than fiction for Canal + (big french TV channel) on a fake parody of french search engine.

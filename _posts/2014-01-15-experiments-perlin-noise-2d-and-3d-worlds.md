@@ -1,4 +1,6 @@
-## Experiments: Perlin noise 2D and 3D worlds
+---
+title: "Experiment: Using Perlin noise to create 2D and 3D worlds"
+---
 
 Have you heard of Perlin noise? It is quite an amazing thing that has a wide range of uses in games (and in other stuff).
 

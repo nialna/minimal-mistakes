@@ -1,4 +1,6 @@
-## Music Quiz Duel
+---
+title: "Music Quiz Duel for iOS/Android"
+---
 
 ![Music Quiz Duel]({{site.url}}{{site.baseurl}}/assets/img/2016/Jan/mqdbanner.png)
 

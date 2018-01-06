@@ -1,4 +1,6 @@
-## Music Quiz
+---
+title: "Music Quiz for iOS/Android"
+---
 
 Music Quiz is a game I worked on at mangoo games.
 
