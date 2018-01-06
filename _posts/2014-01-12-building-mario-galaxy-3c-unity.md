@@ -1,4 +1,6 @@
-## Building Mario Galaxy 3C in Unity
+---
+title: "Building Mario Galaxy's 3C in Unity
+---
 
 I have been working on prototyping different things with Unity3D in the hope of making a game with it. It turns out that one of those prototypes was quite challenging and interesting to make. This article is about mimicking the physics of Mario Galaxy (where the player is pulled towards small planets by gravity).
 

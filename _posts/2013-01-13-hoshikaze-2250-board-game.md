@@ -1,4 +1,6 @@
-## Hoshikaze 2250 board game
+---
+title: "Hoshikaze 2250 board game"
+---
 
 A few years ago I worked with the association Hoshikaze 2250 which is an indie sci-fi crossmedia license, to create their board game.
 

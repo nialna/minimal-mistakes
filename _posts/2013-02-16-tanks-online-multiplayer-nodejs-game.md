@@ -1,4 +1,6 @@
-## Tanks
+---
+title: "Tanks: HTML5 real-time multiplayer game with physics"
+---
 
 Tanks is an HTML5 real-time multiplayer game made as a school project. It is built on a node.js server using socket.io, and on the front end box2d for physics. At the time (2013) those technologies were still relatively new and the project was a good occasion of learning more about game networking and physics.
 

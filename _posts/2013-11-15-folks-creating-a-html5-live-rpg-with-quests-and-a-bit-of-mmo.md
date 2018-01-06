@@ -1,4 +1,6 @@
-## Folks - Creating a HTML5 Animal Crossing-like Facebook game with quests and real-time events
+---
+title: "Folks - HTML5 Animal Crossing-like Facebook game with quests and real-time events
+---
 
 Folks is a game I made during my last year at ISART Digital. 
 It is a social game meant to produce an experience of peaceful living on a little village, in the kind of the *Animal Crossing* series.

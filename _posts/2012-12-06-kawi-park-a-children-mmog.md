@@ -1,4 +1,6 @@
-## Kawi Park - A Children MMOG
+---
+title: "Kawi Park - Children MMOG"
+---
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/img/2014/May/kawipark.png)
 

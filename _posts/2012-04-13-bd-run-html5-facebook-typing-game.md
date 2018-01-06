@@ -1,4 +1,6 @@
-## BD Run
+---
+title: "BD Run: HTML5 Typing game on facebook"
+---
 
 BD Run is a typing game on Facebook that I made with [Bigger Than Fiction](https://www.biggerthanfiction.com/). This game was made to promote french comic artist, in partnership with a french comics website.
 

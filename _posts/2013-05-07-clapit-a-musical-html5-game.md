@@ -1,4 +1,6 @@
-## ClapIt: A musical HTML5 Game
+---
+title: "ClapIt: A musical HTML5 Game"
+---
 
 Clap It is a musical game I made with [Inateno](https://twitter.com/Inateno) during a Game Jam at ISART Digital when I was a student.
 ![]({{ site.url }}{{ site.baseurl }}/assets/img/2014/May/clapit.png)
