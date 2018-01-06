@@ -1,4 +1,4 @@
-## Very Experimental Unity Game
+## Experimental Unity game with procedural meshes
 
 We had a weird [game](assets/files/boxgame/index.html) idea to make with Unity: The player can place spots on the ground, and depending on how much are placed, things happen when you press a button:
 
@@ -12,3 +12,5 @@ So the gameplay is all about moving around and placing spots to slow enemies and
 It was made very quickly (a day or so) and we spent time on getting funny graphics. We were also experimenting with procedural meshes (which is the initial reason for this gameplay)
 
 You can play either with gamepad (A to place dots, X to use them) or keyboard (Space to place dots, Alt to use).
+
+(The game used to have a feature to upload scores and other things but this isn't hosted anymore).

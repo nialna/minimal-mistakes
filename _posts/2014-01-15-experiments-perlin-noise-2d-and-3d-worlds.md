@@ -46,7 +46,7 @@ Now let's move on to 3D. If Perlin noise uses three inputs, you get (x,y,z) poin
 ![]({{ site.url }}{{ site.baseurl }}/assets/img/2014/Jan/chUrHZE.png)
 *Some procedural space game that generates planets in Unity. Prototype I've been working on lately*
 
-I have created a little [demo](assets/files/perlin/index.html) of 3D noise used in javascript to create 2D animations. As you can see Perlin noise is a costly algorithm, and the image has to be scaled down to be processed in real time. You can check the full source code on [github]().
+I have created a little [demo](assets/files/perlin/index.html) of 3D noise used in javascript to create 2D animations. As you can see Perlin noise is a costly algorithm, and the image has to be scaled down to be processed in real time.
 
 Perlin noise can really produce all sort of things, here are some screenshots:
 ![]({{ site.url }}{{ site.baseurl }}/assets/img/2014/Jan/gen1.png)

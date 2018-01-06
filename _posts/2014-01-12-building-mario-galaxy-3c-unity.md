@@ -1,8 +1,8 @@
-##Building Mario Galaxy 3C in Unity
+## Building Mario Galaxy 3C in Unity
 
 I have been working on prototyping different things with Unity3D in the hope of making a game with it. It turns out that one of those prototypes was quite challenging and interesting to make. This article is about mimicking the physics of Mario Galaxy (where the player is pulled towards small planets by gravity).
 
-##Mario Galaxy
+## Mario Galaxy
 
 ![Mario Galaxy]({{ site.url }}{{ site.baseurl }}/assets/img/2014/Jan/super_mario_galaxy_wii_09.jpg)
 
@@ -23,7 +23,7 @@ The planet is a random mesh, with a mesh collider, and the player is placed on i
 You rotate the player so that they're aligned with the face up vector, and you have successfully re-orientated the player according to the shape of the planet.
 If you have planets that are high-poly, you can then have a smooth movement on the surface of it just by looking the direction of the face under you.
 
-Then there's a lot of code to write so you can smooth things, handle jump correctly (my player was initially falling down to space when jumping from a cliff sometimes), and other things which would be too long to explain here. Here is [the code]() for the "stickToPlanet" component that makes any gameObject keep its orientation arround a planet.
+Then there's a lot of code to write so you can smooth things, handle jump correctly (my player was initially falling down to space when jumping from a cliff sometimes), and other things which would be too long to explain here. Here is [the code](https://github.com/nialna/Galaxy/blob/master/Assets/Game/Scripts/StickToPlanet.cs) for the "stickToPlanet" component that makes any gameObject keep its orientation arround a planet.
  
 The interesting part is that (may contain random stuff used in my prototype, sorry):
 ```csharp
@@ -69,7 +69,7 @@ void linkToPlanet (RaycastHit planet) {
 }
 ```
 
-##The camera
+## The camera
 
 Another bit of challenge here was writing the camera. The player is rotating arround an arbitrary mesh and it was really hard to have a camera that felt right. I think I spent at least an hour walking about in Mario Galaxy just to see how they did it. As usual, Nintendo impressed me by how much details were put into their camera. Of course I couldn't reproduce the same thing alone, but I could still get something basic and working.
 
@@ -82,5 +82,5 @@ Now you may want to see a [demo](assets/files/galaxy/index.html) of all that in 
 
 The meshes used here are extremely low poly so movement may be a bit ugly but it's just a proof of concept. Just jump to another object/planet to switch what you're attached to.
 
-If you want to check the whole source code to understand some details, here is the [github repo]().
+If you want to check the whole source code to understand some details, here is the [github repo](https://github.com/nialna/Galaxy).
 You can also directly get the [UnityPackage]() so you can insert it in a scene. 
