@@ -1,7 +1,7 @@
-##m-d-r.fr - A french search engine
+## m-d-r.fr - A french search engine
 
-![](assets/img/2014/May/Screenshot_at_mai_07_16_11_57.png)
-Ok so I totally forgot to post about this - I have been working with bigger than fiction for Canal + (big french TV channel) on [Le Moteur de Recherche](http://www.m-d-r.fr/) with [Julien De Luca](http://jide.fr/).
+![]({{ site.url }}{{ site.baseurl }}/assets/img/2014/May/Screenshot_at_mai_07_16_11_57.png)
+I have been working with bigger than fiction for Canal + (big french TV channel) on a fake parody of french search engine.
 
 The goal was to create an engine that takes english words/people/objects and converts them in their french equivalent, often with a bit of humor. It was made as a marketing operation for a documentary they were making.
 

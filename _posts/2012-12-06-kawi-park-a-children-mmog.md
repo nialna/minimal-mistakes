@@ -1,6 +1,6 @@
-##Kawi Park - A Children MMOG
+## Kawi Park - A Children MMOG
 
-![](assets/img/2014/May/kawipark.png)
+![]({{ site.url }}{{ site.baseurl }}/assets/img/2014/May/kawipark.png)
 
 ## Introduction
 In 2011/2012, I worked on Kawi Park with Allokids. Kawi Park was a french F2P MMO game project for children, created in partnership with France Televisions (main french public TV channel). Kawi Park was a new animated series they produced, and this game was set in the same universe.

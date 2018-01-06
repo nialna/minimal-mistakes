@@ -1,10 +1,10 @@
-##Folks - Creating a HTML5 Animal Crossing-like Facebook game with quests and real-time events
+## Folks - Creating a HTML5 Animal Crossing-like Facebook game with quests and real-time events
 
 Folks is a game I made during my last year at ISART Digital. 
 It is a social game meant to produce an experience of peaceful living on a little village, in the kind of the *Animal Crossing* series.
 The pitch is "Move to your new village, and create bonds with your new neighboors. Explore your village and discover all its secrets: magic plants and trees, mysterious events and fun characters!"
 It is developped in HTML5 (with no framework used, because at the time html5 canvas was still pretty new).
-![Logo Folks](assets/img/2013/Nov/logo.png).
+![Logo Folks]({{ site.url }}{{ site.baseurl }}/assets/img/2013/Nov/logo.png).
 
 We were two developers, two designers, two artists and one sound designer. We had about one day per month of official group-work on this project for the year.
 
@@ -23,7 +23,7 @@ So let's start with the basics:
 * Dialog API
 * Scripting API for special game events
 
-![Folks Screenshot](assets/img/2013/Nov/folksscreen.png)
+![Folks Screenshot]({{ site.url }}{{ site.baseurl }}/assets/img/2013/Nov/folksscreen.png)
 #### Scripting system
 Considering our heavy needs of controling the world by quest/event/dialog interaction, we needed a simple scripting system for game designers. We implemented hooks in every needed behaviour of the game, making us able to call special behaviours at will (moving a PNJ to a location from example) or to detect special events (Player picking up a fruit on the ground).
 With these hooks, we designed a simple scripting system so the designers could write scripts for their quests/events/dialogs. It looks similar to that:
@@ -48,16 +48,16 @@ The second is meant to execute every instructions at the same time, no matter th
 
 With these two special instructions plus the hooks in game behaviours, we were able to try and create very complex events and quest behaviour pretty quickly, so we are happy with the result.
 
-###Live event system
+### Live event system
 One of the keys of the game design was the real-time calendar. To keep players coming to the game, we wanted to build a lot of events associated to the real-life calendar. For example: Sunday fishing contest, full-moon marathon, or more simply a NPC going to the bar every evening.
 
 To do that, we implemented a socket communication between client and server. The server continuously runs a loop to check if some world events are to be launched/finished. Every time that happens, it sends an event to all connected clients with the script of the event. Then the script is executed on the client and the event is launched. If a player connects, then their client receives the information of all currently running event scripts and they are launched too. This allows us to store all this content on the server and make the game faster to load, as they will only be received as needed.
 
 We didn't have the time to create proper game events for our final demo, but we made a few tests like for example making a NPC run arround the map every minute, so that was a proof of concept.
 
-###Quest System
+### Quest System
 The players were able to participate in quests, which followed the classical MMORPG mechanics: a PNJ has some quests, with conditions to unlock them. You take a quest, finish its steps one by one, and then receive a reward.
-![Folks Quest diary screenshot](assets/img/2013/Nov/folksscreentruc.png)
+![Folks Quest diary screenshot]({{ site.url }}{{ site.baseurl }}/assets/img/2013/Nov/folksscreentruc.png)
 
 #### Quest Life-cycle
 

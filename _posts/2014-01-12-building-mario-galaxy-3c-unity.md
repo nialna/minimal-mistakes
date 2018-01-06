@@ -4,7 +4,7 @@ I have been working on prototyping different things with Unity3D in the hope of 
 
 ##Mario Galaxy
 
-![Mario Galaxy](assets/img/2014/Jan/super_mario_galaxy_wii_09.jpg)
+![Mario Galaxy]({{ site.url }}{{ site.baseurl }}/assets/img/2014/Jan/super_mario_galaxy_wii_09.jpg)
 
 So what's so special about this game? Well, first it's a Nintendo game, which means the camera, controls and characters are amazing, and second, it's the first platformer (at least the first I know of) to feature a player gravitating around arbitrarilly formed planets, which can't be done with simple physics.
 
@@ -15,7 +15,7 @@ My first idea was to use "real life physics" by assigning a gravity force to eac
 
 I don't think Nintendo went this way. The way Mario can move on platforms of any form and still be easilly controllable is not realistic at all, but it's really great. I think this experience sums up really well the bottom-up childish Nintendo way of designing games.
 
-![](assets/img/2014/Jan/070908smg_scr33.jpg)
+![]({{ site.url }}{{ site.baseurl }}/assets/img/2014/Jan/070908smg_scr33.jpg)
 
 So, luckilly for me I did some research and found a really interesting idea: It consists of using normals to change the player's direction depending on the face underneath them. Let me explain myself:
 
@@ -76,7 +76,7 @@ Another bit of challenge here was writing the camera. The player is rotating arr
 <iframe width="480" height="360" src="//www.youtube.com/embed/3F_rTQBz3b4" frameborder="0" allowfullscreen></iframe>
 *If you want to see a bit the controls and camera in action*
 
-##Demo, source code
+## Demo, source code
 
 Now you may want to see a [demo](assets/files/galaxy/index.html) of all that in action. Move with left stick (or arrow keys), A to jump, turn camera with right stick (or don't turn if you don't have a gamepad).
 
