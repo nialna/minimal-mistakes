@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Liana Pigeot"
-  avatar           : "/assets/img/2018/Jan/liana.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm a game developer and I like making games fun for the player. Working in VR, Unity, Unreal and HTML5. <br /><a href='https://lianapigeot.com'>Portfolio</a>"
   location         : "London, UK"
   email            : "liana.pigeot@gmail.com"
