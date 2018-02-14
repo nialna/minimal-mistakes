@@ -1,5 +1,5 @@
 ---
-title: "Unreal Engine 4: Generating a procedural terrain with an underwater world (Part 1)"
+title: "Unreal Engine 4: Generating a procedural terrain with an underwater world (Part 1) - Perlin Noise"
 header:
   image: "/assets/img/2018/Feb/landscape_1.png"
 categories:
