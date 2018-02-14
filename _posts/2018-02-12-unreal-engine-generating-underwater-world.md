@@ -103,3 +103,5 @@ Since we're interested in generating terrain, we only care about giving it two i
 ![perlin noise blueprints]({{site.url}}{{site.baseurl}}/assets/img/2018/Feb/perlin_bp2.png)
 
 This is the most basic example of how you would call the noise function to get a value from an X and Y input (you can leave z at 0 since it's irrelevant to us).
+
+The next part will be about actually generating a mesh from what the Perlin noise function gives us.
