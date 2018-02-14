@@ -100,4 +100,4 @@ Since we're interested in generating terrain, we only care about giving it two i
 
 This is the most basic example of how you would call the noise function to get a value from an X and Y input (you can leave z at 0 since it's irrelevant to us).
 
-The next part will be about actually generating a mesh from what the Perlin noise function gives us.
+[The next part](http://blog.lianapigeot.com/projects/unreal-engine-generating-underwater-world-part-2/) is about actually generating a mesh from what the Perlin noise function gives us.
