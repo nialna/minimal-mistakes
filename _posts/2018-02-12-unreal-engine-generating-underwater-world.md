@@ -6,12 +6,8 @@ categories:
   - Projects
 tags:
   - unreal engine
-  - unreal
   - procedural generation
-  - ue4
   - c++
-  - terrain
-  - subnautica
 ---
 
 I've been playing Subnautica a lot lately. It is impressive to see how each biome in the game feels unique and handcrafted, and is full of interesting details. Seeing this made me want to try and see how close I could get to this type of world generation in Unreal Engine 4.
