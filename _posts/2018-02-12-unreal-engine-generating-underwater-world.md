@@ -76,7 +76,7 @@ LoadLib(Target, "LibNoise", "LIB_NOISE");
 
 I wanted the noise to be easily accessible in the engine and controllable by blueprint/editor modifications, so I created a `PerlinNoiseComponent` that can be added to any actor, giving it access to noise functions, with the possibility of modifying noise parameters from the editor and/or blueprints.
 
-I will soon make this `PerlinNoiseComponent` available as an Unreal Engine plugin for ease of use, too.
+The `PerlinNoiseComponent` code is available on [Github](https://github.com/nialna/PerlinNoiseComponent). I might make an Unreal plugin from it eventually.
 
 ![perlin noise editor]({{site.url}}{{site.baseurl}}/assets/img/2018/Feb/perlin_editor.png)
 
