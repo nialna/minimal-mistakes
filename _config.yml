@@ -13,7 +13,7 @@ title                    : "Liana Pigeot - Senior Game Developer (Unity, Unreal,
 title_separator          : "-"
 name                     : "Liana Pigeot"
 description              : "Game Development blog of Liana Pigeot. I mostly make VR games, Unity, Unreal and  HTML5 games."
-url                      : "http://blog.lianapigeot.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://blog.lianapigeot.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "nialna/nialna.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
